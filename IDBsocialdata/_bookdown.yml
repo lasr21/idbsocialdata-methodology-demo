@@ -1,7 +1,7 @@
 book_filename: "idbsocialdata"
 repo: /EL-BID/armonizacion_microdatos_encuestas_hogares_scl
 #/EL-BID/idbsocialdata-methodology
-output_dir: "../docs"
+output_dir: "docs"
 
 language:
 label:
@@ -15,7 +15,7 @@ delete_merged_file: true
 rmd_files: [
   "index.rmd",
   
-  #"01-Intro-eng.rmd",
+  #"01-Intro-eng.Rmd",
   #"02-metodologia-eng.Rmd",
   #"03-GyD-eng.Rmd",
   #"04-Source-eng.Rmd",

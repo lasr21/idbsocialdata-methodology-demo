@@ -1,7 +1,0 @@
-# (PART\*) English version { .unnumbered}
-
-# Introduction {#intro-eng .unnumber}
-
-Currently in [**Data and Indicators for Latin America and the Caribbean (LAC)**](https://www.iadb.org/en/sharing-knowledge/data/social-data), there are standardized and comparable indicators for 26 countries in the LAC region from 2006 to the present. These indicators can be accessed through the platform or libraries in the [***R***](https://github.com/EL-BID/idbsocialdataR), [***Python***](https://github.com/EL-BID/idbsocialdatapy), and [***Stata languages***](https://github.com/EL-BID/idbsocialdata).
-
-Esto es una prueba para probar que estoy haciendo el deploy bien
